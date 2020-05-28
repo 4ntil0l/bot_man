@@ -11,7 +11,7 @@ What you need.
 * BeautifulSoup4
 * websockets
 * websocket-client
-
+---------
 
 its pretty simple i guess.
 
